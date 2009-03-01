@@ -1,0 +1,1 @@
+Este dir e' usado para gerar as saidas (html etc.)
